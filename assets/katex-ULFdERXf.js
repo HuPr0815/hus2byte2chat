@@ -1,0 +1,1 @@
+import{c as e}from"./article-detail-CScKJOWN.js";export{e as default};
