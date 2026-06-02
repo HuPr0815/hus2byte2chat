@@ -1,1 +1,0 @@
-import{c as e}from"./article-detail-D1Cr_YJo.js";export{e as default};
