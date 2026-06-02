@@ -1,0 +1,1 @@
+import{E as e,N as t}from"./index-ob2R0t9L.js";t();var n=e();function r({children:e,className:t=``,delayMs:r=50}){return(0,n.jsx)(`div`,{className:t,children:e.slice(0,10).map((e,t)=>(0,n.jsx)(`div`,{className:`animate-[stagger-fade-in_0.4s_ease-out_forwards] opacity-0`,style:{animationDelay:`${t*r}ms`},children:e},t))})}export{r as t};
