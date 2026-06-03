@@ -1,0 +1,16 @@
+{
+  "name": "狐思墨兔· byte2chat",
+  "short_name": "byte2chat",
+  "description": "测试工程师的技术博客",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
