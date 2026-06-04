@@ -1,1 +1,0 @@
-import{h as e}from"./mermaid-parser.core-CTidAs8g.js";export{e as createInfoServices};
