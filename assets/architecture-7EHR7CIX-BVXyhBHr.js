@@ -1,1 +1,0 @@
-import{x as e}from"./mermaid-parser.core-CkIcaCGH.js";export{e as createArchitectureServices};
