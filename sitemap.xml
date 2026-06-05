@@ -132,13 +132,13 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://blog.notbug.fun/articles/被开发打回三次之后-我终于明白了一件事-bug报告不是情绪宣泄-而是一份需要对方拿着就能开始-debug-的技术契约-这篇笔记分享我整理的一份可直接套用的模板-以及它背后-减少沟通摩擦-的朴素逻辑</loc>
+    <loc>https://blog.notbug.fun/articles/bug-debug</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://blog.notbug.fun/articles/支付接口-500-之后-我翻出了自己写的三份-伪测试-尸检报告</loc>
+    <loc>https://blog.notbug.fun/articles/500</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
