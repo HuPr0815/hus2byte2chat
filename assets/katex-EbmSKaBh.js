@@ -1,0 +1,1 @@
+import{c as e}from"./article-detail-DuGMlvcw.js";export{e as default};
