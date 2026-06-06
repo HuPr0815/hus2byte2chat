@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://blog.notbug.fun/sitemap.xml
-
-User-agent: *
 Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://blog.notbug.fun/sitemap.xml
