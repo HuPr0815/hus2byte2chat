@@ -1,1 +1,0 @@
-import{c as e}from"./article-detail-CRmaybuK.js";export{e as default};
