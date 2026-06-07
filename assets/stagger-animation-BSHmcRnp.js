@@ -1,1 +1,0 @@
-import{F as e,H as t}from"./index-CglD1L1k.js";t();var n=e();function r({children:e,className:t=``,delayMs:r=50}){return(0,n.jsx)(`div`,{className:t,children:e.slice(0,10).map((e,t)=>(0,n.jsx)(`div`,{className:`animate-[stagger-fade-in_0.4s_ease-out_forwards] opacity-0`,style:{animationDelay:`${t*r}ms`},children:e},t))})}export{r as t};
