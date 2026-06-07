@@ -1,0 +1,1 @@
+import{c as e}from"./article-detail-BHcs26UT.js";export{e as default};
