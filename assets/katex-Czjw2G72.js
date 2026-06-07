@@ -1,1 +1,0 @@
-import{c as e}from"./article-detail-2wV_ROU2.js";export{e as default};
