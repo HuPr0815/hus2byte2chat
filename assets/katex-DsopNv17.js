@@ -1,0 +1,1 @@
+import{c as e}from"./article-detail-VyVCedko.js";export{e as default};
