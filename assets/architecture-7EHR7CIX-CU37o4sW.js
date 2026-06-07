@@ -1,1 +1,0 @@
-import{x as e}from"./mermaid-parser.core-CmpHprJ3.js";export{e as createArchitectureServices};
