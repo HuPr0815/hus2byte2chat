@@ -1,0 +1,1 @@
+import{c as e}from"./article-detail-ww_RCQi5.js";export{e as default};
